@@ -1,0 +1,8 @@
+export default HTTP_STATUS_CODE={
+    SUCCES : 200,
+    CREATE:201,
+
+    NOT_FOUND:404,
+
+    INTERNAL_SERVER_ERREUR:500,
+}
